@@ -1,0 +1,15 @@
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\bin\Debug\net6.0\ByteBanco.exe
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\bin\Debug\net6.0\ByteBanco.deps.json
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\bin\Debug\net6.0\ByteBanco.runtimeconfig.json
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\bin\Debug\net6.0\ByteBanco.dll
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\bin\Debug\net6.0\ByteBanco.pdb
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ByteBanco.csproj.AssemblyReference.cache
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ByteBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ByteBanco.AssemblyInfoInputs.cache
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ByteBanco.AssemblyInfo.cs
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ByteBanco.csproj.CoreCompileInputs.cache
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ByteBanco.dll
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\refint\ByteBanco.dll
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ByteBanco.pdb
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ByteBanco.genruntimeconfig.cache
+E:\Sharpcoders\Exemplos\ByteBanco\ByteBanco\obj\Debug\net6.0\ref\ByteBanco.dll
